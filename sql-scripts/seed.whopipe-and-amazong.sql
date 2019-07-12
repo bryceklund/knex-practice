@@ -1,5 +1,8 @@
 BEGIN;
-INSERT INTO whopipe_video_views (region, date_viewed, video_name) VALUES
+
+INSERT INTO whopipe_video_views
+    (region, date_viewed, video_name)
+VALUES
   ('Northeast', '2016-01-16 12:00:00',       'Despotato'),
   ('Midwest ',  '2016-05-01 15:00:00',       'Shape of Pooh'),
   ('South',     '2017-02-22 12:00:00',       'UpTown Monk'),
