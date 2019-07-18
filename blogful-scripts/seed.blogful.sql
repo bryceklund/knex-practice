@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, context)
+VALUES
+    ('how to make stuff', '2019-06-05', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('big news today', '2019-07-12', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('love to have fun', '2018-7-20', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('hate to do work', '2018-01-29', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('done having fun', '2019-04-20', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('love to be anxious', '2018-08-31', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('falling in love', '2018-11-12', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('learn a new thing', '2019-05-01', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('make good progress', '2019-07-01', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('4th if juki', '2019-07-04', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('the future goodtimes', '2019-07-13', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('data entry sucks', '2015-11-01', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('dont hurt yourself', '2016-05-21', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('exercise is important', '2019-07-11', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('new year, new us', '2019-01-01', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('so close to the end now', '2019-07-12', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('but so far from the end', '2019-07-12', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('three more remaining', '2019-07-13', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('when will it end', '2019-07-16', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.'),
+    ('happy birthday', '2019-07-15', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel justo in massa dignissim faucibus. Nunc at metus finibus, viverra justo ac, convallis velit.');
